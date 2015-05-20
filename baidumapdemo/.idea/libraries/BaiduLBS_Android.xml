@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="BaiduLBS_Android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/BaiduLBS_Android.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/deve_tools/BaiduLBS_AndroidSDK_Docs/定位功能" />
+      <root url="file://D:/deve_tools/BaiduLBS_AndroidSDK_Docs/地图+检索+LBS云检索+工具" />
+      <root url="file://D:/deve_tools/BaiduLBS_AndroidSDK_Docs/全景图功能" />
+      <root url="file://D:/deve_tools/BaiduLBS_AndroidSDK_Docs/导航功能" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
